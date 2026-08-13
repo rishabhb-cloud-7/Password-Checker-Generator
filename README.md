@@ -66,12 +66,15 @@ Generates a random, secure **12-character** password containing a guaranteed bal
 * Special characters
 
 ## Learning Outcomes
-Through the development of this project, I practiced and demonstrated:
-* Python programming and clean function design
-* Defensive input validation and error exception handling
-* Standard password security principles and string manipulation
-* Secure, randomized password generation methodologies
-* Building intuitive, menu-driven terminal applications
+Through this project I practiced:
+• Python programming
+• Function design
+• Exception handling
+• Password security principles
+• String manipulation
+• Randomized password generation
+• Input validation
+• Menu-driven application development
 
 ## Future Improvements
 * [ ] Password history tracking to prevent recycling
